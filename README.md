@@ -1,6 +1,6 @@
 👋 Hi, I’m @ArpaDeveloper!
-Currently studying software development 
-and Developing games.
+Currently studying Software
+and Systems Engineering.
 
 
 
