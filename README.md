@@ -57,6 +57,12 @@ __Key Features__
 + Predictive analysis machine learning model trained on Google Cloud.
 <br>
 
+## Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=ArpaDeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<br>
+
 ## Connect with me
 [My Linkedin](https://www.linkedin.com/in/aarni-viljanen/)
 
