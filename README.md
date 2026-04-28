@@ -1,63 +1,63 @@
-# 👋 Hi, I’m @ArpaDeveloper!
-__Software & Systems Engineering Student | Software Developer | Building software projects__ 
+# Hi, I’m @ArpaDeveloper!
+*Software & Systems Engineering Student | Software Engineer | Software hobbyist*
 
 I like working on different projects and optimizing things. I have been coding since 2017 and actually before that starting with Scratch!
 
 > [!NOTE]
 > If this is TLDR, just check my [website](https://arpadeveloper.github.io/). 
 
-## Currently looking for work
-### Tech Stack
-__Backend & Programming__
+## *Skills* :hammer:
+*Backend & Programming*
 
-Python (numpy, pandas, APIs), C#, C, Java
+`C`,`Python`,`Scala`,`C#`,`Java`,`SQL`
 
-__DevOps & Cloud__
+*DevOps & Cloud*
 
-GitLab CI/CD, Webhooks, Docker, Azure
+`GitLab CI/CD`,`Webhooks`,`Docker`,`Azure`
 
-__Dev Tools__
+*Dev Tools*
 
-Linux, VS Code, Microsoft Visual Studio, Git, GitHub, GitHub Desktop/GitKraken
+`Linux`,`Git`,`GitHub`,`GitHub Desktop/GitKraken`,`VS Code`,`IntelliJ`,`Rider`,`Microsoft Visual Studio`,`MySQL`,`PostgreSQL`
 
-__Game Dev__
-
-Unity, Steam Developer Tools, Godot, C#
-## Featured Projects
-### Lofirunner
-__Self-published game__
+## *Projects* :package:
+### *Lofirunner* (Self-published game)
+<details>
+<summary>Click</summary>
 
 Lofirunner is a single-player 3D speedrunning game, where you speed your way through space. Made with Unity and C#. Available on [Steam](https://store.steampowered.com/app/2111080/Lofirunner/). Made completely from start to finish by me (excluding music).
 
-__Key Features__
+`Key Features`
 - Built with Unity engine.
 * Core gameplay mechanics, movement systems, UI logic, and game state handling implemented in C#.
 + Steam integration (Steam Achievements).
-<br>
+</details>
 
-### Portfolio Website
-__Hosted in Github__
 
- I made my portfolio website with HTML/CSS and javasript. Currently looking for ways to update it. Check it out [here](https://arpadeveloper.github.io/). 
 
-__Key Features__
+### *Portfolio Website* (Hosted in Github)
+<details>
+<summary>Click</summary>
+ 
+I made my portfolio website with HTML/CSS and javasript. Currently looking for ways to update it. Check it out [here](https://arpadeveloper.github.io/). 
+
+`Key Features`
 - Built with HTML/CSS & Javascript.
 * Hosted on GitHub Pages.
 + "Visualized CV"
-<br>
+</details>
 
-### Junction 2025 Project
-__End-to-End, AI-driven logistics platform__
-
+### *Junction 2025 Project* (End-to-End, AI-driven logistics platform)
+<details>
+<summary>Click</summary>
+ 
 AI-Driven logistic platform made during Junction 2025 Hackathon (72 hours). Made with 4 other team members. Check it out [here](https://github.com/eeliogata/junction-2025).
 
-__Key Features__
+`Key Features`
 - Conversational, multilingual, decision-making AI agent powered by Gemini.
 *  AI assisted management platform.
 + Predictive analysis machine learning model trained on Google Cloud.
-<br>
+</details>
 
-## Connect with me
-[My Linkedin](https://www.linkedin.com/in/aarni-viljanen/)
+## Socials :eyes:
+[Linkedin](https://www.linkedin.com/in/aarni-viljanen/) & [Portfolio](https://arpadeveloper.github.io/)
 
-[My Portfolio Website](https://arpadeveloper.github.io/)
