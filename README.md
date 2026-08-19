@@ -13,7 +13,7 @@ I like working on different projects and optimizing things. I have been coding s
 
 *DevOps & Cloud*
 
-`GitLab CI/CD`,`Webhooks`,`Docker`,`Azure`
+`AWS`,`Azure`,`GitLab CI/CD`,`Webhooks`,`Docker`
 
 *Dev Tools*
 
