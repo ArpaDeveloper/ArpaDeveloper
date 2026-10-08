@@ -60,7 +60,7 @@ AI-Driven logistic platform made during Junction 2025 Hackathon (72 hours). Made
 + Predictive analysis machine learning model trained on Google Cloud.
 </details>
 
-## *Stats*
+## *Stats* :bar_chart:
 
 <p align="center">
   <picture>
