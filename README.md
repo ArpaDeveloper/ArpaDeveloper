@@ -71,6 +71,14 @@ AI-Driven logistic platform made during Junction 2025 Hackathon (72 hours). Made
       src="profile-summary-card-output/github/1-repos-per-language.svg"
       alt="Repositories per language">
   </picture>
+   <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img
+      src="profile-summary-card-output/github/2-most-commit-language.svg"
+      alt="Most committed languages">
+  </picture>
 </p>
 
 ## Socials :eyes:
