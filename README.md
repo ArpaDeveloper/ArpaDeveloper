@@ -19,6 +19,8 @@ I like working on different projects and optimizing things. I have been coding s
 
 `Linux`,`Windows`,`PC assembly & troubleshooting`
 
+
+
 ## *Projects* :package:
 ### *Lofirunner* (Self-published game)
 <details>
@@ -57,6 +59,19 @@ AI-Driven logistic platform made during Junction 2025 Hackathon (72 hours). Made
 *  AI assisted management platform.
 + Predictive analysis machine learning model trained on Google Cloud.
 </details>
+
+## *Stats*
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img
+      src="profile-summary-card-output/github/1-repos-per-language.svg"
+      alt="Repositories per language">
+  </picture>
+</p>
 
 ## Socials :eyes:
 [Linkedin](https://www.linkedin.com/in/aarni-viljanen/) & [Portfolio](https://arpadeveloper.github.io/)
