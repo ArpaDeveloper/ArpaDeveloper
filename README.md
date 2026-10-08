@@ -1,23 +1,23 @@
 # Hi, I’m @ArpaDeveloper!
-*Software & Systems Engineering Student | Software Engineer | Software hobbyist*
+*Software & Systems Engineering Student | Software Developer | Software hobbyist*
 
-I like working on different projects and optimizing things. I have been coding since 2017 and actually before that starting with Scratch!
+I like working on different projects and optimizing things. I have been coding since 2017.
 
 > [!NOTE]
 > If this is TLDR, just check my [website](https://arpadeveloper.github.io/). 
 
 ## *Skills* :hammer:
-*Backend & Programming*
+*Scripting*
 
-`C`,`Python`,`Scala`,`C#`,`Java`,`SQL`
+`C`,`Rust`,`Python`,`JavaScript`,`C#`,`C++`,`Scala`,`Java`,`SQL`
 
-*DevOps & Cloud*
+*Tools & Software*
 
-`AWS`,`Azure`,`GitLab CI/CD`,`Webhooks`,`Docker`
+`VS Code`,`GitHub`,`AWS`,`Unity`,`Google Apps Scripting`, `Docker`, `JetBrains IDEs`, `Azure`
 
-*Dev Tools*
+*Systems & Hardware*
 
-`Linux`,`Git`,`GitHub`,`GitHub Desktop/GitKraken`,`VS Code`,`IntelliJ`,`Rider`,`Microsoft Visual Studio`,`MySQL`,`PostgreSQL`
+`Linux`,`Windows`,`PC assembly & troubleshooting`
 
 ## *Projects* :package:
 ### *Lofirunner* (Self-published game)
