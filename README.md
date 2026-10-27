@@ -21,7 +21,18 @@ I like working on different projects and optimizing things. I have been coding s
 
 
 
-## *Projects* :package:
+## *Highlighted Projects* :package:
+
+### *Heron* (Modular chess engine)
+<details>
+<summary>Click</summary>
+ 
+Heron is a modular chess engine developed in Rust as part of my thesis. It employs a handcrafted, heuristic-based evaluation function and incorporates several search techniques, including Negamax with alpha–beta pruning, iterative deepening, move ordering, and quiescence search, alongside various other optimizations.
+
+`Key Features`
+*  UCI protocol
+</details>
+
 ### *Lofirunner* (Self-published game)
 <details>
 <summary>Click</summary>
@@ -32,20 +43,6 @@ Lofirunner is a single-player 3D speedrunning game, where you speed your way thr
 - Built with Unity engine.
 * Core gameplay mechanics, movement systems, UI logic, and game state handling implemented in C#.
 + Steam integration (Steam Achievements).
-</details>
-
-
-
-### *Portfolio Website* (Hosted in Github)
-<details>
-<summary>Click</summary>
- 
-I made my portfolio website with HTML/CSS and javasript. Currently looking for ways to update it. Check it out [here](https://arpadeveloper.github.io/). 
-
-`Key Features`
-- Built with HTML/CSS & Javascript.
-* Hosted on GitHub Pages.
-+ "Visualized CV"
 </details>
 
 ### *Junction 2025 Project* (End-to-End, AI-driven logistics platform)
@@ -59,27 +56,6 @@ AI-Driven logistic platform made during Junction 2025 Hackathon (72 hours). Made
 *  AI assisted management platform.
 + Predictive analysis machine learning model trained on Google Cloud.
 </details>
-
-## *Stats* :bar_chart:
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img
-      src="profile-summary-card-output/github/1-repos-per-language.svg"
-      alt="Repositories per language">
-  </picture>
-   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img
-      src="profile-summary-card-output/github/2-most-commit-language.svg"
-      alt="Most committed languages">
-  </picture>
-</p>
 
 ## Socials :eyes:
 [Linkedin](https://www.linkedin.com/in/aarni-viljanen/) & [Portfolio](https://arpadeveloper.github.io/)
