@@ -1,7 +1,9 @@
 # Hi, I’m @ArpaDeveloper!
 *Software & Systems Engineering Student | Software Developer | Software hobbyist*
 
-I'm a software engineer with a passion for optimizing (*perfecting) everything I can. Sometimes I find myself 4 hours deep into a problem that no one asked me to solve. In my free time, I enjoy working on projects & improving myself.
+I'm a software engineer who loves optimizing, creating, and turning ideas into reality. I enjoy exploring technologies, solving problems (even the ones nobody asked me to), and continuously improving both my work and myself.
+
+Outside of coding, you'll find me bouldering, drinking tea, reading, playing chess, or enjoying The Beatles, cat memes, and good company.
 
 > [!NOTE]
 > If this is TLDR, just check my [portfolio](https://www.viljanen.dev/). 
